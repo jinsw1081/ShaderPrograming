@@ -20,7 +20,7 @@
 //--------------------------------------------------------------//
 // Pass 0
 //--------------------------------------------------------------//
-string ColorShader_Pass_0_Model : ModelData = ".\\shpere.x";
+string ColorShader_Pass_0_Model : ModelData = ".\\sphere.x";
 
 struct VS_INPUT 
 {
